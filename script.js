@@ -35,6 +35,7 @@ if(navigator.geolocation){
     },
     function() {
       console.log('Nao achamos sua localização')
+      
     }
   )
 }
