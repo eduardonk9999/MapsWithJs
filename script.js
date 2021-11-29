@@ -31,6 +31,7 @@ if(navigator.geolocation){
         .bindPopup('A pretty CSS3 popup.<br> Easily customizable.')
         .openPopup();
 
+        //map.on()
 
     },
     function() {
@@ -40,4 +41,3 @@ if(navigator.geolocation){
   )
 }
 
-console.log(name)
